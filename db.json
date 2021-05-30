@@ -1,0 +1,8 @@
+{
+  "categoria": {
+    "id": "int",
+    "nombre": "string",
+    "descripcion": "string",
+    "fecha": "string"
+  }
+}
